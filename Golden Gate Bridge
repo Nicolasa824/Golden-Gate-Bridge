@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Golden Gate Bridge</title>
+    <style>
+        /* CSS styles */
+        body {
+            font-family:Luminari, fantasy;
+            background-color: #ffe4e1;
+            padding: 20px;
+            text-align: center; /* Center-align all content */
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        h2 {
+            color: #666;
+            margin-top: 30px;
+        }
+
+        img {
+            border-radius: 20px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="svg-container">
+        <img src="title.svg" alt="Golden Gate Bridge">
+    </div>
+
+    <img src="small-golden-gate-bridge-san-francisco-bay-california-preview copy.jpg"
+    alt="sunset behind bridge"
+    srcset="small-golden-gate-bridge-san-francisco-bay-california-preview copy.jpg 480w,
+            Med-golden-gate-bridge-san-francisco-bay-california-preview.jpg 960w,
+            large-golden-gate-bridge-san-francisco-bay-california-preview.jpg 1440w,
+            Xlarge-golden-gate-bridge-san-francisco-bay-california-preview.jpg 1920w"
+    sizes="(max-width: 480px) 25vw,
+    (max-width: 960px) 25vw,
+    (max-width: 1440px) 25vw,
+    (max-width: 1920px) 25vw"
+    style="max-width: 100%; height: auto;">
+
+    <h2>The bridge once home to Native Americans, was renamed San Francisco by Spanish explorers.</h2>
+    
+    <h2>Populations jumped with the gold rush and by 1900 the population reached a million.</h2>
+    
+  <img src="s.california-gold-rush-handbill-6a562f-1024.jpg"
+    alt="poster for boats going to california gold regions "
+    srcset="s.california-gold-rush-handbill-6a562f-1024.jpg 480w,
+            m.california-gold-rush-handbill-6a562f-1024.jpg 960w,
+            L.california-gold-rush-handbill-6a562f-1024.jpg 1440w,
+            xL.california-gold-rush-handbill-6a562f-1024.jpg 1920w"
+    sizes="(max-width: 480px) 25vw,
+    (max-width: 960px) 25vw,
+    (max-width: 1440px) 25vw,
+    (max-width: 1920px) 25vw"
+    style="max-width: 100%; height: auto;">
+    
+    <h2>The bridge's construction was started in <time datetime="1933">1933</time> and was opened in <time datetime="1937-01-05">1937</time>.</h2>
+    
+    <img src="small.golden-gate-bridge-under-construction-san-francisco-california-chas-m-hiller-905b58-1024.jpg"
+    alt="bridge under construction"
+    srcset="small.golden-gate-bridge-under-construction-san-francisco-california-chas-m-hiller-905b58-1024.jpg 480w,
+            med.golden-gate-bridge-under-construction-san-francisco-california-chas-m-hiller-905b58-1024.jpg 960w,
+            L.golden-gate-bridge-under-construction-san-francisco-california-chas-m-hiller-905b58-1024 copy.jpg 1440w,
+            XL.golden-gate-bridge-under-construction-san-francisco-california-chas-m-hiller-905b58-1024 copy.jpg 1920w"
+    sizes="(max-width: 480px) 25vw,
+           (max-width: 960px) 25vw,
+           (max-width: 1440px) 25vw,
+           (max-width: 1920px) 25vw"
+    style="max-width: 100%; height: auto;">
+    
+    <h2>This bridge is massive and used daily by the individuals in the highly populated area who commute to work, school or other things. It is very important for the transportation in that area, if it collapsed it would be crazy news, and many many people wouldn't be able to get on with their day.</h2>
+    
+    <h2>Southbound traffic has been reported to be over 7 million <time datetime="2023">this year from July to November</time>, and in <time datetime="2018">2018</time>/<time datetime="2019">2019</time> it breached over 20 million. </h2>
+    
+    <h2>There is also much revenue being collected from the tolls that goes into maintaining the bridge and other city transport</h2>
+    
+    <img src="small-golden-gate-bridge-san-francisco-bay-california-preview copy.jpg"
+    alt="bridge with traffic"
+    srcset="small.pexels-stephen-leonardi-18353916.jpg 480w,
+            med.pexels-stephen-leonardi-18353916.jpg 960w,
+            lar.pexels-stephen-leonardi-18353916.jpg 1440w,
+            xlar.pexels-stephen-leonardi-18353916.jpg 1920w"
+    sizes="(max-width: 480px) 25vw,
+    (max-width: 960px) 25vw,
+    (max-width: 1440px) 25vw,
+    (max-width: 1920px) 25vw"
+    style="max-width: 100%; height: auto;">
+    
+    <h2> Earthquakes have always been relevant from constructing the bridge to now after San Francisco's massive <time datetime="1906">1906</time> earthquake, with a magnitude of 7.9. </h2>
+    
+    <h2>Record low traffic on the bridge has been on days where smaller earthquakes have hit. What would happen if the bridge were to collapse in present time? </h2>
+    
+    <img src="small-golden-gate-bridge-san-francisco-bay-california-preview copy.jpg"
+    alt="San Francsco earthquake"
+    srcset="s.san-francisco-earthquake-of-1906-41b6ab-1024.jpg 480w,
+            m.san-francisco-earthquake-of-1906-41b6ab-1024.jpg 960w,
+            L.san-francisco-earthquake-of-1906-41b6ab-1024.jpg 1440w,
+           xL.san-francisco-earthquake-of-1906-41b6ab-1024.jpg 1920w"
+    sizes="(max-width: 480px) 25vw,
+    (max-width: 960px) 25vw,
+    (max-width: 1440px) 25vw,
+    (max-width: 1920px) 25vw"
+           style="max-width: 100%; height: auto;">
+</body>
+</html>
